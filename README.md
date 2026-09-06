@@ -1,6 +1,8 @@
 # Context Relay website
 
-Minimal static homepage and privacy policy for the Context Relay Chrome extension.
+Official website for Context Relay — continue AI conversations across ChatGPT, Claude, and Gemini.
+
+[Install Context Relay from the Chrome Web Store](https://chromewebstore.google.com/detail/context-relay/glkbkbclnmgmpoajcpdiidpnppfkjpai)
 
 ## Local preview
 
